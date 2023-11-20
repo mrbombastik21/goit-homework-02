@@ -1,0 +1,33 @@
+.page-nav .link{
+color: #2E2F42;
+}
+.page-nav .link:hover{
+    color: #404BBF;
+}
+.page-nav .links{
+color: #2E2F42;
+}
+.page-nav .links:hover{
+color: #404BBF;
+}
+.page-nav .links:active{
+    color: #404BBF;
+}
+.adressa .contacts{
+    color: #434455;
+}
+.adressa .contacts:hover{
+    color: #404BBF;
+}
+.main-page-btn{
+    color: #4D5AE5;
+}
+.main-page-btn:hover{
+    color: #404BBF;
+}
+.social{
+    color: #9747FF;
+}
+.social:hover{
+    color: #31D0AA;
+}
