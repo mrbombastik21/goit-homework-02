@@ -1,12 +1,6 @@
 /* header */
 .page-nav-item {
   color: #2e2f42;
-  font-family: "Raleway" sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 .logo {
   color: #4d5ae5;
@@ -32,8 +26,9 @@
 .page-nav .links:hover {
   color: #404bbf;
 }
-.page-nav .links:active {
-  color: #404bbf;
+
+.adressa{
+  font-style: normal;
 }
 .adressa .link {
   color: #434455;
