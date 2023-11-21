@@ -40,3 +40,11 @@
 .social:hover {
   color: #31d0aa;
 }
+.footer-item{
+  color: #F4F4FD;
+}
+.footer-text{
+  line-height: 1.5;
+  color: #F4F4FD;
+  letter-spacing: 0.02em;
+}
