@@ -1,33 +1,42 @@
-.page-nav .link{
-color: #2E2F42;
+.page-nav .link {
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+  line-height: 0.02em;
 }
-.page-nav .link:hover{
-    color: #404BBF;
+.page-nav .link:hover {
+  color: #404bbf;
 }
-.page-nav .links{
-color: #2E2F42;
+.page-nav .links {
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+  line-height: 0.02em;
 }
-.page-nav .links:hover{
-color: #404BBF;
+.page-nav .links:hover {
+  color: #404bbf;
 }
-.page-nav .links:active{
-    color: #404BBF;
+.page-nav .links:active {
+  color: #404bbf;
 }
-.adressa .contacts{
-    color: #434455;
+.adressa .link {
+  color: #434455;
+  font-weight: 500;
+  line-height: 1.5;
+  line-height: 0.02em;
 }
-.adressa .contacts:hover{
-    color: #404BBF;
+.adressa .link:hover {
+  color: #404bbf;
 }
-.main-page-btn{
-    color: #4D5AE5;
+.main-page-btn {
+  color: #4d5ae5;
 }
-.main-page-btn:hover{
-    color: #404BBF;
+.main-page-btn:hover {
+  color: #404bbf;
 }
-.social{
-    color: #9747FF;
+.social {
+  color: #9747ff;
 }
-.social:hover{
-    color: #31D0AA;
+.social:hover {
+  color: #31d0aa;
 }
