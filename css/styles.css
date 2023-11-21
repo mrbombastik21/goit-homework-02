@@ -4,7 +4,7 @@
 }
 .logo {
   color: #4d5ae5;
-  font-family: "Raleway" sans-serif;
+  font-family: "Raleway",sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -17,11 +17,11 @@
 .page-nav .link:hover {
   color: #404bbf;
 }
-.page-nav .links {
+.page-nav .link {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
-  line-height: 0.02em;
+  letter-spacing: 0.02em;
 }
 .page-nav .links:hover {
   color: #404bbf;
@@ -34,7 +34,7 @@
   color: #434455;
   font-weight: 500;
   line-height: 1.5;
-  line-height: 0.02em;
+  letter-spacing: 0.02em;
 }
 .adressa .link:hover {
   color: #404bbf;
