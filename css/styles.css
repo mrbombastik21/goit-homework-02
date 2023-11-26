@@ -5,9 +5,7 @@ body{
 }
 
 /* header */
-.page-nav-item {
-  color: #2e2f42;
-}
+
 .logo {
   color: #4d5ae5;
   font-family: "Raleway",sans-serif;
@@ -17,17 +15,22 @@ body{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.logo :hover{
-  color: #404BBF;
-}
-.page-nav .link {
-  color: #2e2f42;
-}
+
+.page-nav-item {
+    color: #2e2f42;
+  }
+
 .page-nav .link {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.link :hover {
+color: #404bbf;
+}
+.link :active{
+color: #404bbf;
 }
 
 .adressa{
