@@ -17,14 +17,11 @@ body{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.logo :hover{
+  color: #404BBF;
+}
 .page-nav .link {
   color: #2e2f42;
-}
-.link:hover {
-  color: #404BBF;
-}
-.link:active{
-  color: #404BBF;
 }
 .page-nav .link {
   color: #2e2f42;
