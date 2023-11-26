@@ -45,6 +45,9 @@ color: #404bbf;
 .adressa .link:hover {
   color: #404bbf;
 }
+.adressa .link :active{
+  color: #404bbf;
+}
 /* Main */
 .dark-bg{
 background-color: #2e2f42;
