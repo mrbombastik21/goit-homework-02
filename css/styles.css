@@ -21,16 +21,16 @@ body{
   color: #2e2f42;
 }
 .page-nav .link:hover {
-  color: #404bbf;
+  color: #404BBF;
+}
+.page-nav-link:active{
+  color: #404BBF;
 }
 .page-nav .link {
   color: #2e2f42;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.page-nav .links:hover {
-  color: #404bbf;
 }
 
 .adressa{
@@ -68,7 +68,7 @@ background-color: #2e2f42;
   color: #ffffff;
   cursor: pointer;
 }
-.main-page-btn:hover {
+.main-page-btn:hover:active {
   background-color: #404BBF;
 }
 .main-page-btn:active{
