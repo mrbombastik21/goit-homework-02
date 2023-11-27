@@ -42,10 +42,10 @@ color: #404bbf;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.adressa .link:hover {
+.link:hover {
   color: #404bbf;
 }
-.adressa .link :focus{
+.link:focus{
   color: #404bbf;
 }
 /* Main */
