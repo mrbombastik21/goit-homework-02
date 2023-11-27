@@ -71,14 +71,14 @@ background-color: #2e2f42;
   color: #ffffff;
   cursor: pointer;
 }
-.main-page-btn:hover:active {
+.main-page-btn:hover{
   background-color: #404BBF;
 }
-.main-page-btn:active{
+.main-page-btn:focus{
   background-color: #404BBF;
 }
 
-.feature-1{
+.main-caption{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -91,7 +91,7 @@ color: #2e2f42;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.feature-2{
+.heading{
   background-color: #F4F4FD;
 }
 .list-img{
